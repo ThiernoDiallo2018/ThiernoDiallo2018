@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ThiernoDiallo2018/ThiernoDiallo2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a passionate aspiring iOS Developer with a love for the Startup ecosystem. 
 
 🌱 Currently, I'm diving deep into UIKit with the hopes of learning SwiftUI down the line. 
@@ -24,4 +21,4 @@ Feel free to reach out to me through email: tdiallo1996@gmail.com. I'm always op
 🌐 Check out my acting site: https://www.thierno-diallo.com/
 
 ### 🔭 I’m currently working on ......
--->
+
