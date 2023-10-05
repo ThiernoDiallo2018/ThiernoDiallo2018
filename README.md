@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hey There 👋
 
 I'm a passionate aspiring iOS Developer with a love for the Startup ecosystem. 
 
